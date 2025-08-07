@@ -1,1 +1,8 @@
-# CODSOFT_DATA_SCIENCE
+# TASK 1 TITANIC SURVIVAL PREDICTION
+In this project, a classification model is developed to predict whether a passenger survived the Titanic disaster. The dataset includes features like age, gender, passenger class, fare, and cabin information. The task involves cleaning missing data, performing exploratory data analysis (EDA), encoding categorical variables, and applying machine learning algorithms to predict survival outcomes. The model's performance is evaluated using accuracy and confusion matrix.
+
+# TASK 2 MOVIE RATING PREDICTION WITH PYTHON
+This regression-based project aims to predict the rating of a movie based on multiple input features such as genre, director, main actors, runtime, and budget. The goal is to analyze historical movie data to understand the key factors that influence audience or critic ratings. The project includes data visualization, feature transformation, model training using regression techniques, and performance evaluation using metrics like Mean Squared Error and R² score. It provides valuable insights into how different features affect movie ratings.
+
+# TASK 5 CREDIT CARD FRAUD DETECTION
+This project focuses on detecting fraudulent credit card transactions using classification algorithms. The dataset consists of anonymized transaction data, with features transformed for privacy. The task involves normalizing data, handling severe class imbalance using techniques like oversampling or undersampling, and training models such as logistic regression and random forest. The model is evaluated using precision, recall, F1-score, and ROC-AUC to ensure high sensitivity in detecting fraudulent activity. This project demonstrates the importance of machine learning in financial security and anomaly detection.
